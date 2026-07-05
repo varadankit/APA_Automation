@@ -173,8 +173,3 @@ ollama serve
 - [ ] Simple dashboard to browse `results.csv`
 - [ ] Retry logic for slow first-load responses from Ollama
 
----
-
-## 📜 License
-
-MIT, use freely.
