@@ -1,6 +1,6 @@
 # 🤖 AI Document Assistant
 
-A small agentic automation project that watches a folder on your Mac, and whenever a new file lands in it, uses a local AI model to figure out what the document actually is and what should happen next.
+A small agentic automation project that watches a folder, and whenever a new file lands in it, uses a local AI model to figure out what the document actually is and what should happen next.
 
 No hardcoded rules like `if "invoice" in filename`. The AI reads the content and decides.
 
