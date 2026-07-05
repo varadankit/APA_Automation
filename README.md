@@ -163,13 +163,4 @@ ollama serve
 - 📄 Only reads text-based PDFs. Scanned or photographed invoices (no text layer) won't extract anything yet, OCR support is a planned next step.
 - 📧 `.eml` support is basic, plain text emails only for now.
 
----
-
-## 🔮 Next steps
-
-- [ ] Add OCR (`pytesseract` + `pdf2image`) for scanned documents
-- [ ] macOS notification when a document is marked `priority: high`
-- [ ] Support `.docx` files
-- [ ] Simple dashboard to browse `results.csv`
-- [ ] Retry logic for slow first-load responses from Ollama
 
