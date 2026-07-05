@@ -1,0 +1,2 @@
+filename,processed_at,document_type,sender,date,amount,deadline,suggested_action,priority,summary
+sample_invoice.pdf,2026-07-04T17:53:26,invoice,Brightline Office Supplies Ltd.,"June 28, 2026",$915.87,"July 18, 2026","Remit payment by e-transfer to accounts@brightlinesupplies.com, referencing invoice number INV-2026-0714.",medium,Invoice from Brightline Office Supplies Ltd. for office supplies and services.
