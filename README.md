@@ -42,7 +42,7 @@ ai_doc_assistant/
 
 ---
 
-## 🛠️ Setup (macOS)
+## 🛠️ Setup (Linux)
 
 **1. Install Ollama and pull a model**
 
