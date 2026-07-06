@@ -2,7 +2,7 @@
 
 An Agentic automation project that watches a folder, and whenever a new file lands in it, uses a local AI model to figure out what the document actually is and what should happen next.
 
-No hardcoded rules like `if "invoice" in filename`. The AI reads the content and decides.
+No deterministic rules like `if "invoice" in filename`. The AI reads the content and decides.
 
 ---
 
