@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+# generated at runtime, not meant to be tracked
+inbox/*
+processed/*
+outputs/*.csv
+outputs/summaries/*
+!inbox/.gitkeep
+!processed/.gitkeep
+!outputs/summaries/.gitkeep
