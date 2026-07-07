@@ -1,9 +1,0 @@
-File: sample_invoice.pdf
-Type: invoice
-Priority: medium
-
-Summary:
-Invoice from Brightline Office Supplies Ltd. for office supplies and services.
-
-Suggested action:
-Remit payment by e-transfer to accounts@brightlinesupplies.com, referencing invoice number INV-2026-0714.
